@@ -45,4 +45,4 @@ set showmatch						" 显示匹配
 set hlsearch						" 高亮显示匹配
 set showcmd							" 显示输入命令
 set t_Co=256						" 打开256色
-set vb t_vb=						" 去掉"嘟嘟"声
+set vb t_vb=						" 去掉(嘟嘟)声
